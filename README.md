@@ -34,7 +34,7 @@ Follow the steps below to set up the project locally:
 ### . Clone the Repository
 
 
-git clone https://github.com/yourusername/InterviewQuestion-Creator.git
+git clone https://github.com/vishnu-kg/-InterviewQuestion-Creator.git
 
 ###   Set Up a Virtual Environment
 
