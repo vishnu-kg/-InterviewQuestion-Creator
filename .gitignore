@@ -1,0 +1,46 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Ignore virtual environment directories
+venv/
+.env/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore the experiment notebook
+experiment.ipynb
+
+# Ignore environment configuration files
+.env
+
+# Ignore generated files or directories
+Generative_AI_Project.egg-info/
+
+# Ignore the data directory
+data/
+
+# Ignore pycache inside src
+src/__pycache__/
+
+# Ignore IDE/editor specific files
+.vscode/
+.idea/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+
+# Ignore distribution and packaging files
+*.egg
+*.egg-info
+dist/
+build/
+env/
